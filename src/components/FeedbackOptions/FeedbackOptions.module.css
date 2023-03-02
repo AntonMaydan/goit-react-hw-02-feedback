@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.btn {
+  font-size: 23px;
+  text-decoration: none;
+  cursor: pointer;
+  display: block;
+  width: 90px;
+  font-weight: bold;
+  margin: 20px auto;
+  text-align: center;
+  padding: 1px 5px;
+  color: #000000;
+  background: rgba(0, 219, 178, 0.721);
+  border: 1px solid #000000;
+}
+
+.btn:hover {
+  background: #83f3e4;
+  color: rgb(17, 0, 150);
+ 
+}
